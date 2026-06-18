@@ -1,0 +1,10 @@
+{
+  "name": "@ajithkumar0308/design-tokens",
+  "version": "1.0.0",
+  "description": "Design Tokens Package",
+  "main": "tokens.json",
+  "files": [
+    "tokens.json"
+  ],
+  "license": "MIT"
+}
